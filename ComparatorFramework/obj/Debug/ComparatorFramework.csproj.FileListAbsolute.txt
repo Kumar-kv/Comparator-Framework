@@ -1,0 +1,10 @@
+C:\Users\BOND\source\repos\ComparatorFramework\ComparatorFramework\bin\Debug\ComparatorFramework.exe
+C:\Users\BOND\source\repos\ComparatorFramework\ComparatorFramework\bin\Debug\ComparatorFramework.exe.config
+C:\Users\BOND\source\repos\ComparatorFramework\ComparatorFramework\obj\Debug\ComparatorFramework.csproj.CoreCompileInputs.cache
+C:\Users\BOND\source\repos\ComparatorFramework\ComparatorFramework\obj\Debug\ComparatorFramework.exe
+C:\Users\BOND\source\repos\ComparatorFramework\ComparatorFramework\obj\Debug\ComparatorFramework.pdb
+C:\Users\BOND\source\repos\ComparatorFramework\ComparatorFramework\bin\Debug\ComparatorFramework.pdb
+C:\Users\BOND\source\repos\ComparatorFramework\ComparatorFramework\bin\Debug\log4net.dll
+C:\Users\BOND\source\repos\ComparatorFramework\ComparatorFramework\bin\Debug\log4net.xml
+C:\Users\BOND\source\repos\ComparatorFramework\ComparatorFramework\obj\Debug\ComparatorFramework.csproj.CopyComplete
+C:\Users\BOND\source\repos\ComparatorFramework\ComparatorFramework\obj\Debug\ComparatorFramework.csprojAssemblyReference.cache

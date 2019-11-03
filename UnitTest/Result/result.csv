@@ -1,0 +1,4 @@
+Region,Country,ItemType,SalesChannel,OrderPriority,OrderDate,OrderID,ShipDate,UnitsSold,UnitPrice,UnitCost,TotalRevenue,TotalCost,TotalProfit
+Europe,Iceland,Baby Food,Online,H,11/20/2010,599480426,1/9/2011,8435,255.28,159.42,2153286.80,1344707.70,808579.10
+Asia,Indonesia1,Meat,Online,H,8/20/2010,472974574,8/27/2010,2542,421.89,364.69,1072444.38,927041.98,145402.40
+Europe,Iceland,Baby Food1,Online,H,11/20/2010,599480426,1/9/2011,8435,255.28,159.42,2153286.80,1344707.70,808579.10

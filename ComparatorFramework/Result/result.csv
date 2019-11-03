@@ -1,0 +1,5 @@
+Region,Country,ItemType,SalesChannel,OrderPriority,OrderDate,OrderID,ShipDate,UnitsSold,UnitPrice,UnitCost,TotalRevenue,TotalCost,TotalProfit
+Middle East and North Africa,Turkey,Office Supplies,Online,L,10/4/2010,428504407,11/13/2010,2831,651.21,524.96,1843575.51,1486161.76,357413.75
+Europe,Ukraine,Baby Food,Offline,M,5/7/2017,581689441,5/29/2017,3687,255.28,159.42,941217.36,587781.54,353435.82
+Middle East and North Africa,Turkey1,Office Supplies,Online,L,10/4/2010,428504407,11/13/2010,2831,651.21,524.96,1843575.51,1486161.76,357413.75
+Europe,Ukraine,Baby Food,Offline,M1,5/7/2017,581689441,5/29/2017,3687,255.28,159.42,941217.36,587781.54,353435.82

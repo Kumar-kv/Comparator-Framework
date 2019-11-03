@@ -1,0 +1,3 @@
+2019-11-03 14:13:06,904 INFO [1] utils - Row/Count between files match
+2019-11-03 14:13:33,840 INFO [1] utils - Row/Count between files match
+2019-11-03 14:13:54,474 ERROR [1] Program - This will appear in red in the console and still be written to file!
